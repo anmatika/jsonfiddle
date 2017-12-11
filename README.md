@@ -1,4 +1,4 @@
 # jsonfiddle
 
 ## RUN
-python parse.py
+    python parse.py
